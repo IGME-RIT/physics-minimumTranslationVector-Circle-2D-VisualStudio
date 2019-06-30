@@ -1,5 +1,0 @@
-﻿  main.cpp
-d:\profiles\njp2424\desktop\physics\level8\physics-minimumtranslationvector-circle-2d-mastervs2019\mtv_circle_2d\main.cpp(387): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-d:\profiles\njp2424\desktop\physics\level8\physics-minimumtranslationvector-circle-2d-mastervs2019\mtv_circle_2d\main.cpp(451): warning C4326: return type of 'main' should be 'int' instead of 'void'
-d:\profiles\njp2424\desktop\physics\level8\physics-minimumtranslationvector-circle-2d-mastervs2019\mtv_circle_2d\main.cpp(467): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  MTV_Circle_2D.vcxproj -> D:\Profiles\njp2424\Desktop\Physics\level8\physics-minimumTranslationVector-Circle-2D-masterVS2019\MTV_Circle_2D\Debug\MTV_Circle_2D.exe
